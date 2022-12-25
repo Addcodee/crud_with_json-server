@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Bread",
+      "price": "0.99",
+      "cat": "food",
+      "desc": "Tasty Bread that made with love",
+      "img": "https://images.pexels.com/photos/6608542/pexels-photo-6608542.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 1671961243725
+    },
+    {
+      "name": "Men",
+      "price": "10",
+      "cat": "Menschen",
+      "desc": "Works hard",
+      "img": "https://images.pexels.com/photos/4545786/pexels-photo-4545786.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 1671961334655
+    },
+    {
+      "name": "Horse",
+      "price": "2000",
+      "cat": "animals",
+      "desc": "Fast and Beutifull",
+      "img": "https://images.pexels.com/photos/13896800/pexels-photo-13896800.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 1671961382248
+    },
+    {
+      "name": "Forgotten Kingdom",
+      "price": "200",
+      "cat": "other",
+      "desc": "Would you like to be there? We can do it, just type us",
+      "img": "https://images.pexels.com/photos/14743453/pexels-photo-14743453.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 1671961485469
+    },
+    {
+      "name": "Girl",
+      "price": "50",
+      "cat": "beautifull photos",
+      "desc": "Wanna take any good pictures by yourself? No Problem, just ask us",
+      "img": "https://images.pexels.com/photos/11805666/pexels-photo-11805666.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 1671961701156
+    },
+    {
+      "name": "Card to test the delete",
+      "price": "21321",
+      "cat": "other",
+      "desc": "testing delete",
+      "img": "https://images.pexels.com/photos/10812170/pexels-photo-10812170.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 1671961764484
+    }
+  ]
+}
